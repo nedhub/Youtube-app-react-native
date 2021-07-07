@@ -1,0 +1,49 @@
+[{
+  "id": "1",
+  "createdAt": "5 months ago",
+  "title": "Italy tops Spain on penalties to reach EURO 2020 final ",
+  "thumbnail": "https://i.ytimg.com/vi/vEAG0R78L_4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBTuEAzjy0jbDgiHhLC6GxqYxVoZA",
+  "videoUrl": "",
+  "duration": 384,
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  "views": 357000
+}, {
+  "id": "2",
+  "createdAt": "4 days ago",
+  "title": "England vs Denmark 2-1 Euro 2020 Semi Final Highlights ",
+  "thumbnail": "https://i.ytimg.com/vi/j9rZ7mJFsJI/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDpU2h4ksobl2alHJkoYEvzdNj92g",
+  "videoUrl": "",
+  "duration": 584,
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://yt3.ggpht.com/ytc/AKedOLRjh4xKMmjg5kD2JTZkedPqGhAnpotxMuBrUWfV=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "views": 257000
+}, {
+  "id": "3",
+  "createdAt": "2 months ago",
+  "title": "How Graham Stephan makes $4,578,896.32 a year on YouTube",
+  "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail3.jpeg",
+  "videoUrl": "",
+  "duration": 584,
+  "user": {
+    "name": "Graham Stephan",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+  },
+  "views": 257000
+}, {
+  "id": "3",
+  "createdAt": "2 months ago",
+  "title": "My One Month Bitcoin Mining Journey",
+  "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail4.jpeg",
+  "videoUrl": "",
+  "duration": 584,
+  "user": {
+    "name": "Biahaze",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/biahaze.jpg"
+  },
+  "views": 257000
+}]
