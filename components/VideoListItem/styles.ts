@@ -4,6 +4,12 @@ import {StyleSheet} from 'react-native';
 
 
 const styles = StyleSheet.create({
+
+    videoPlayer: {
+        width: '100%',
+        aspectRatio: 16/9,
+
+    },
     thumbnail: {
         width: '100%',
         aspectRatio: 16/9,
@@ -57,7 +63,7 @@ const styles = StyleSheet.create({
         flex: 1,
         // backgroundColor: 'red',
 
-    }
+    },
 
 
 
