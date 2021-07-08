@@ -106,23 +106,72 @@ const VideoScreen = () => {
 
 
 
-            <View style={{flexDirection: 'row'}}>
+            <View style={{flexDirection: 'row', alignItems: 'center', paddingVertical: 18,  borderColor: '#3d3d3d', borderTopWidth: 1, borderBottomWidth: 1}}>
 
 
                 <Image style = {styles.avatar } source={{ uri: video.user.image}} />
 
 
 
-                <View>
+                <View style={{marginHorizontal: 10, flex: 1}}>
 
-                    <Text style={{color: "white", fontSize: 18}}>{video.user.name}</Text>
-                    <Text>{video.user.subscribers}</Text>
+                    <Text style={{color: "white", fontSize: 18, fontWeight: 'bold'}}>{video.user.name}</Text>
+                    <Text style={{color: "grey", fontSize: 18}}>{video.user.subscribers}</Text>
+                    
+                    {/* <Text>{video.user.subscribers}</Text> */}
 
                 </View>
 
-                <Text style={{color: 'white', fontSize: 18}}>Subscribe</Text>
+                <Text style={{color: 'red', fontSize: 18, fontWeight: 'bold', padding: 10}}>Subscribe</Text>
 
 
+            </View>
+
+
+            
+
+
+            <View>
+
+                <View style={{padding: 10}}>
+
+
+
+
+                </View>
+
+
+                <Text style={{color: 'white', fontWeight: 'bold'}}> Comments 3</Text>
+
+            <>
+            <View style={{flexDirection: 'row', alignItems: 'center', padding: 10, paddingVertical: 18,  borderColor: '#3d3d3d', borderTopWidth: 1, borderBottomWidth: 1}}>
+
+
+                <Image style = {{width: 35, height: 35, borderRadius: 20}} source={{ uri: video.user.image}} />
+
+
+
+                <View style={{marginHorizontal: 10, flex: 1}}>
+
+                    <Text style={{color: "white", fontWeight: 'bold', marginLeft: 10,}}>It cant be</Text>
+                    
+                </View>
+
+                
+
+            
+
+            </View>
+
+            
+
+
+
+
+            
+
+
+            </>
 
 
 
